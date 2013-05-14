@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BACKLOG	serv.cpp	15;"	d	file:
+BUF_SIZE	serv.cpp	16;"	d	file:
+MYPORT	serv.cpp	14;"	d	file:
+conn_amount	serv.cpp	/^int conn_amount;    \/\/ current connection amount$/;"	v
+fd_A	serv.cpp	/^int fd_A[BACKLOG];    \/\/ accepted connection fd$/;"	v
+main	serv.cpp	/^int main(void)$/;"	f	signature:(void)
+showclient	serv.cpp	/^void showclient()$/;"	f	signature:()
+sum_str	serv.cpp	/^void sum_str(char *ans, char *data)$/;"	f	signature:(char *ans, char *data)
